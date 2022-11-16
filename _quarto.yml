@@ -13,8 +13,10 @@ website:
         text: CV
       - href: Assignments.qmd
         text: Assignments
-      - href: Projects.qmd
-        text: Projects
+      - href: ProjectProposal.pdf
+        text: Project Proposal
+      - href: FinalProject.pdf
+        text: Final Project
       - href: https://azysko.github.io/Blog/
         text: Blog
 
